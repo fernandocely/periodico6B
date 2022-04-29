@@ -1,0 +1,31 @@
+body{
+    text-align: justify !important;
+}
+#img1 img{
+    width: 80%;
+}
+nav{
+    background-color: #d16c57;
+}
+
+#img2 img{
+    width: 100%;
+}
+#ft{
+    background-color: rgb(128, 121, 121);
+}
+
+
+#footer img{
+    width: 10%;
+}
+#footer p{
+   display: inline;
+}
+#footer a{
+    display: block;
+ }
+ footer{
+     background-color: #d16c57;
+     color: white;
+ }
